@@ -1,0 +1,82 @@
+[
+    {
+    "title": "What is a correct syntax to output 'Hello World' in C++?",
+    "answer_1": "cout << 'Hello World';",
+    "answer_2": "System.out.println('Hello World');",
+    "answer_3": "Console.WriteLine('Hello World');",
+    "answer_4": "print ('Hello World');",
+    "right_answer": "cout << 'Hello World';"
+  },
+    {
+    "title": "How do you create a variable with the numeric value 5?",
+    "answer_1": "int x = 5;",
+    "answer_2": "double x = 5;",
+    "answer_3": "num x = 5",
+    "answer_4": "x = 5;",
+    "right_answer": "int x = 5;"
+  },
+    {
+    "title": "Which method can be used to find the length of a string?",
+    "answer_1": "getSize()",
+    "answer_2": "length()",
+    "answer_3": "getLength()",
+    "answer_4": "len()",
+    "right_answer": "length()"
+  },
+    {
+    "title": "Which header file lets us work with input and output objects?",
+    "answer_1": "#include <stream>",
+    "answer_2": "#include <iosstring>",
+    "answer_3": "#include <inputstr>",
+    "answer_4": "#include <iostream>",
+    "right_answer": "#include <iostream>"
+  },
+    {
+    "title": "Which operator can be used to compare two values?",
+    "answer_1": "<>",
+    "answer_2": "==",
+    "answer_3": "=",
+    "answer_4": "><",
+    "right_answer": "=="
+  },
+    {
+    "title": "How do you create a function in C++?",
+    "answer_1": "(functionName)",
+    "answer_2": "functionName.",
+    "answer_3": "functionName[]",
+    "answer_4": "functionName()",
+    "right_answer": "functionName()"
+  },
+    {
+    "title": "Which keyword is used to create a class in C++?",
+    "answer_1": "class()",
+    "answer_2": "className",
+    "answer_3": "class",
+    "answer_4": "MyClass",
+    "right_answer": "class"
+  },
+    {
+    "title": "Which method can be used to find the highest value of x and y?",
+    "answer_1": "max(x,y)",
+    "answer_2": "maximum(x,y)",
+    "answer_3": "maxNum(x,y)",
+    "answer_4": "largest(x,y)",
+    "right_answer": "max(x,y)"
+  },
+    {
+    "title": "How do you create a reference variable of an existing variable?",
+    "answer_1": "With the * operator",
+    "answer_2": "With the ref word",
+    "answer_3": "With the & operator",
+    "answer_4": "With the REF word",
+    "right_answer": "With the & operator"
+  },
+    {
+    "title": "Which statement is used to stop a loop?",
+    "answer_1": "return",
+    "answer_2": "stop",
+    "answer_3": "break",
+    "answer_4": "exit",
+    "right_answer": "break"
+  }
+]

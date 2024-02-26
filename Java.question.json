@@ -1,0 +1,82 @@
+[
+    {
+    "title": "Which data type is used to create a variable that should store text?",
+    "answer_1": "string",
+    "answer_2": "Txt",
+    "answer_3": "myString",
+    "answer_4": "String",
+    "right_answer": "String"
+  },
+    {
+    "title": "How do you create a variable with the floating number 2.8?",
+    "answer_1": "float x = 2.8f;",
+    "answer_2": "byte x = 2.8f",
+    "answer_3": "x = 2.8f;",
+    "answer_4": "int x = 2.8f;",
+    "right_answer": "float x = 2.8f;"
+  },
+    {
+    "title": "Which method can be used to return a string in upper case letters?",
+    "answer_1": "touppercase()",
+    "answer_2": "tuc()",
+    "answer_3": "toUpperCase()",
+    "answer_4": "upperCase()",
+    "right_answer": "toUpperCase()"
+  },
+    {
+    "title": "How do you call a method in Java?",
+    "answer_1": "methodName;",
+    "answer_2": "methodName();",
+    "answer_3": "methodName[];",
+    "answer_4": "(methodName);",
+    "right_answer": "methodName();"
+  },
+    {
+    "title": "What is the correct way to create an object called myObj of MyClass?",
+    "answer_1": "class myObj = new MyClass();",
+    "answer_2": "new myObj = MyClass();",
+    "answer_3": "class MyClass = new myObj();",
+    "answer_4": "MyClass myObj = new MyClass();",
+    "right_answer": "MyClass myObj = new MyClass();"
+  },
+    {
+    "title": "Which operator is used to the remainder of the division numbers?",
+    "answer_1": "%",
+    "answer_2": "?",
+    "answer_3": "*",
+    "answer_4": "$",
+    "right_answer": "%"
+  },
+    {
+    "title": "How do you start writing a while loop in Java?",
+    "answer_1": "while x > y {",
+    "answer_2": "while x > y:",
+    "answer_3": "while (x > y)",
+    "answer_4": "x > y while {",
+    "right_answer": "while (x > y)"
+  },
+    {
+    "title": "How do you insert COMMENTS in Java code?",
+    "answer_1": "// This is a comment",
+    "answer_2": "/* This is a comment",
+    "answer_3": "# This is a comment",
+    "answer_4": "^ This is a comment",
+    "right_answer": "# This is a comment"
+  },
+    {
+    "title": "Which operator is used to add together two values?",
+    "answer_1": "The + sign",
+    "answer_2": "The * sign",
+    "answer_3": "The & sign",
+    "answer_4": "The ++ sign",
+    "right_answer": "The + sign"
+  },
+    {
+    "title": "In Java, it is possible to inherit attributes and methods from one class to another.",
+    "answer_1": "true",
+    "answer_2": "false",
+    "answer_3": "sometimes",
+    "answer_4": "maybe",
+    "right_answer": "break"
+  }
+]
